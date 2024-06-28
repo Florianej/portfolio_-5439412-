@@ -48,7 +48,7 @@ dev_dependencies:
   flutter_lints: ^3.0.0
 
 # For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
+# following page: file:///F:/pers%C3%B6nnliche%20Daten/Lebenslauf%20Floriane.K.pdf
 
 # The following section is specific to Flutter packages.
 flutter:
@@ -60,8 +60,15 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   # assets:
-  #   - images/a_dot_burr.jpeg
+  # images/IMG_1747_pp (1).JPG
   #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/images/IMG_1747_pp (1).JPG
+    - assets/images/Screenshot 2024-06-13 062300.png
+    - assets/images/Screenshot 2024-06-13 062404.png
+    - assets/images/Screenshot 2024-06-13 062508.png
+    - assets/Screenshot 2024-06-13 062338.png
+    
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
